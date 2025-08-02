@@ -1,8 +1,9 @@
 *.pyc
 .landmines
 pin-log.txt
+/android-libs
 /base
-/build
+/build*
 /buildtools
 /google_apis
 /links
